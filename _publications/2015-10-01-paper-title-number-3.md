@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Published Papers"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 ---
