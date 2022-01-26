@@ -25,7 +25,7 @@ Published Papers
 
 Accepted Papers 
 ===
-**1.** He C, **Qu G**, Chen Q , Meng W. A Clustering-Routing Method to Preprocess Data for Massive Internet of Things[C]. 2022 IEEE International Conference on Communications (ICC). 2022. 
+**1.** He C, **Qu G**, Chen Q , Meng W. A Clustering-Routing Method to Preprocess Data for Massive Internet of Things[C]. *2022 IEEE International Conference on Communications (ICC)*. 2022. 
 
 
 Accepted Patents
