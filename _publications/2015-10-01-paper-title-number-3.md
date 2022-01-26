@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 ---
 
-Published Pages 
+Published Papers 
 ===
 **1.** He C, **Qu G**, Ye L, Wei S. A Two-Level Communication Routing Algorithm Based on Vehicle Attribute Information for Vehicular Ad Hoc Network[J]. *Wireless Communications and Mobile Computing*, 2021, 2021:1-14.
 
@@ -12,12 +12,12 @@ Published Pages
 
 **3.** He C, **Qu G**, Ye L, Wei S. A Cluster Routing Algorithm Based on Vehicle Social Information for VANET[C]. *The 9th International Conference on Communications, Signal Processing, and Systems (CSPS)*. 2021:522-528
 
-Accepted Pages 
+Accepted Papers 
 ===
 **1.** He C, **Qu G**, Chen Q , Meng W. A Clustering-Routing Method to Preprocess Data for Massive Internet of Things[C]. 2022 IEEE International Conference on Communications (ICC). 2022. 
 
 
-Accepted Patent
+Accepted Patents
 ===
 **1.** 何晨光，**曲冠桥**，叶亮，马琳，王雨. 基于AODV协议的多节点自组网传输的模拟方法及模拟系统. 申请号：202111033022.4.
 
