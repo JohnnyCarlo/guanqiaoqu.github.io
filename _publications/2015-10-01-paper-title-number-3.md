@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /2015-10-01-paper-title-number-3/
+permalink: /publication/
 author_profile: true
 redirect_from:
   - /resume
