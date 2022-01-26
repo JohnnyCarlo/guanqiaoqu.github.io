@@ -13,29 +13,35 @@ Education
 ======
 * B.S. in Harbin Institute of Technology, 2016-2020
 * M.S. in Harbin Institute of Technology, 2020-2022
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Intern
+  * Shenyang Neusoft Group
+  * Details: I organised the team to develop a micro visualization operating systerm for Intelligent Agriculture.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Matlab
+* Linux
+  * Sub-skill Network Simulation-2 (NS-2)
+* Simulation of Urban MObility (SUMO)
 
+
+  
+Service and leadership
+======
+* * December 2016: New Year's Eve Party Host
+  * School of Electronic and Information Engineering in HIT
+
+* September 2017-September 2018: Student Union Member
+  * School of Electronic and Information Engineering in HIT
+  * Details: I organized the Mid-Autumn Festival Gala of the School of Electronic and Information Engineering in HIT, the 2nd Poetry Conference of HIT, the 2018 HIT Guinness Event, and the 2018 "ZTE Cup" Running Man Campus Challenge.
+
+
+/*
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -53,7 +59,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  */
