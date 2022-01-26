@@ -1,3 +1,15 @@
+---
+layout: archive
+title: "Publications"
+permalink: /2015-10-01-paper-title-number-3/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+
 <!---
 ---
 title: "Paper Title Number 3"
@@ -16,16 +28,7 @@ This paper is about the number 3. The number 4 is left for future work.
 Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
 -->
 
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
-redirect_from:
-  - /resume
----
 
-{% include base_path %}
 
 
 Published Pages 
