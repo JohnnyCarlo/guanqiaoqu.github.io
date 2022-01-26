@@ -41,12 +41,12 @@ Service and leadership
   * Details: I organized the Mid-Autumn Festival Gala of the School of Electronic and Information Engineering in HIT, the 2nd Poetry Conference of HIT, the 2018 HIT Guinness Event, and the 2018 "ZTE Cup" Running Man Campus Challenge.
 
 
-/*
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+# Publications
+# ======
+#   <ul>{% for post in site.publications %}
+#     {% include archive-single-cv.html %}
+#   {% endfor %}</ul>
   
 Talks
 ======
