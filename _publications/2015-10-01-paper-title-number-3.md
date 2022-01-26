@@ -20,9 +20,9 @@ Published Pages
 ===
 **1.** He C, **Qu G**, Ye L, Wei S. A Two-Level Communication Routing Algorithm Based on Vehicle Attribute Information for Vehicular Ad Hoc Network[J]. *Wireless Communications and Mobile Computing*, 2021, 2021:1-14.
 
-**2.** He C, **Qu G**, Wei S. A Vehicular Communication Routing Algorithm Based on Graph Theory[C]. 2021 International Wireless Communications and Mobile Computing (IWCMC). 2021:2176-2181.
+**2.** He C, **Qu G**, Wei S. A Vehicular Communication Routing Algorithm Based on Graph Theory[C]. *2021 International Wireless Communications and Mobile Computing (IWCMC)*. 2021:2176-2181.
 
-**3.** He C, **Qu G**, Ye L, Wei S. A Cluster Routing Algorithm Based on Vehicle Social Information for VANET[C]. The 9th International Conference on Communications, Signal Processing, and Systems (CSPS). 2021:522-528
+**3.** He C, **Qu G**, Ye L, Wei S. A Cluster Routing Algorithm Based on Vehicle Social Information for VANET[C]. *The 9th International Conference on Communications, Signal Processing, and Systems (CSPS)*. 2021:522-528
 
 Accepted Pages 
 ===
