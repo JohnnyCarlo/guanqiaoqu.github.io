@@ -18,6 +18,7 @@ main:
    
   - title: "Research Projects"
     url: /projects/
+    # change /markdown/ to /projects/
 
   - title: "CV"
     url: /cv/
