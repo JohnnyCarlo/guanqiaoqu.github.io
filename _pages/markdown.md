@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /projects/
 title: "Research Projects"
 author_profile: true
 redirect_from: 
@@ -7,6 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 Hello!
+
 <!---
 ## Locations of key files/directories
 
