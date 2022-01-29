@@ -17,7 +17,7 @@ main:
   #  url: /year-archive/
    
   - title: "Research Projects"
-    url: /markdown/
+    url: /projects/
 
   - title: "CV"
     url: /cv/
