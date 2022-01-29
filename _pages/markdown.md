@@ -1,7 +1,3 @@
-<!---
-change "permalink: /markdown/" to "permalink: /projects/"
--->
-
 ---
 permalink: /projects/
 title: "Research Projects"
@@ -10,6 +6,69 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+
+<!---
+change "permalink: /markdown/" to "permalink: /projects/"
+-->
+
+1.A Software Development (\*\*\*\*\*\*\*\*\*\*\*\*)
+===
+* Basic Strengthening Key Projects
+* Sep 2021 – Present
+* Supervisor: Chenguang He, Lin Ma, Liang Ye, Weixiao Meng
+* Details
+  * Designed the communication scheme.
+  * Proposed and simulated two communication algorithms according to the requirements of the nodes.
+  * Tools: Linux, C++, Matlab
+
+2.China-Chile ICT "The Belt and Road " Joint Laboratory Construction and Joint Research (SQ2020YFE020708)
+===
+* National Science and Technology Project
+* Sep 2021 – Present
+* Supervisor: Chenguang He, Shuyi Chen, Weixiao Meng
+* Details
+  * Designed the communication model for Massive IoT devices in areas without the cellular network to access the Internet with Vehicular ad hoc Networks.
+  * Proposed the communication scheme to minimize total network energy consumption and maximize communication reliability by optimizing communication strategy and relay selection.
+  * Tools: Matlab
+
+3.Research on \*\*\*\*\*\*\*\*\* and Transmission Optimization Technology (HHX20641X002)
+===
+* Enterprise Cooperation Project
+* Sep 2020 – Oct 2020
+* Supervisor: Chenguang He, Lin Ma, Liang Ye, Shuai Han, Weixiao Meng
+* Details
+  * Simulated parallel communications of nodes under AOMDV routing protocol and measured network performance.
+  * Tools: Network Simulator version 2 (NS-2)
+
+4.Research on Communication Technology of Indoor-and-Outdoor Unmanned Clustering WANET (F2100115)
+===
+* Enterprise Cooperation Project
+* Sep 2019 – Mar 2021
+* Supervisor: Chenguang He, Lin Ma, Liang Ye, Shuai Han, Weixiao Meng
+* Details
+  * Made the network interface card into ad hoc networks by using AODV routing protocol.
+  * Developed a program based on UDP protocol and socket interface to extend the simple case to the general case.  
+  * Simulated the hop counts and delays when multiple virtual nodes communicate.
+  * Tools: Linux, C++
+
+5.Research on Cluster Routing Algorithm Based on Vehicle Attribute Information for Vehicular Ad Hoc Network
+===
+* Bachelor thesis in HIT
+* Sep 2019 – Jun 2020
+* Supervisor: Chenguang He
+* Details
+  * Investigated the existing routing and clustering algorithms.
+  * Proposed a cluster-and-routing algorithm based on vehicles’ information to meet the demand for efficient and stable low-latency routes.
+  * Tools: NS-2, Simulation of Urban MObility (SUMO), MATLAB
+
+
+
+
+
+
+
+
+
 
 
 <!---
