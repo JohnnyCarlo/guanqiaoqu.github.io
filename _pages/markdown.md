@@ -1,3 +1,7 @@
+<!---
+change "permalink: /markdown/" to "permalink: /projects/"
+-->
+
 ---
 permalink: /projects/
 title: "Research Projects"
@@ -6,7 +10,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-Hello!
+
 
 <!---
 ## Locations of key files/directories
