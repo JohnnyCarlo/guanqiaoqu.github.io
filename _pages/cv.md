@@ -39,12 +39,12 @@ Skills
 ======
 * Software Skill
   * Matlab
-  *Linux
-  *Origin
-  *Office
-  *Latex
-  *Network Simulation-2 (NS-2)
-  *Simulation of Urban MObility (SUMO)
+  * Linux
+  * Origin
+  * Office
+  * Latex
+  * Network Simulation-2 (NS-2)
+  * Simulation of Urban MObility (SUMO)
 * English Skill
   * IELTS: 6.5
   * CET-6: 500
