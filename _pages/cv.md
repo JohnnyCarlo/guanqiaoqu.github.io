@@ -11,8 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in Harbin Institute of Technology, 2016-2020
-* M.S. in Harbin Institute of Technology, 2020-2022
+* B.S. in School of Electronics and Information Engineering, Harbin Institute of Technology (HIT), 2016-2020
+* M.S. in School of Electronics and Information Engineering, HIT, 2020-2022
+
+
+Awards
+===
+* 2021 
+  * "Rice" Scholarship of the 28th Research Institute of China Electronics Technology Group Corporation
+  * HIT First-class scholarship for graduate students 
+* 2020 
+  * National Third Prize in "Huawei Cup" The 17th China Post-Graduate Mathematical Contest in Modeling (Team Leader)
+  * HIT First-class scholarship for graduate students 
+  * HIT Outstanding Graduates
+* 2019 
+  * National Third Prize in 2019 National English Competition for College Students
+* 2018 
+  * Second prize of Heilongjiang Province in the 9th National College Student Mathematics Competition
+  * HIT Merit Student
+* 2017 
+  * People’s Scholarship
+  * HIT Excellent League Member
+  * HIT Model Student
+
+
+Skills
+======
+* Software Skill
+  * Matlab
+  *Linux
+  *Origin
+  *Office
+  *Latex
+  *Network Simulation-2 (NS-2)
+  *Simulation of Urban MObility (SUMO)
+* English Skill
+  * IELTS: 6.5
+  * CET-6: 500
+
 
 Work experience
 ======
@@ -21,19 +57,9 @@ Work experience
   * Details: I organised the team to develop a micro visualization operating systerm for Intelligent Agriculture.
 
 
-  
-Skills
-======
-* Matlab
-* Linux
-  * Sub-skill Network Simulation-2 (NS-2)
-* Simulation of Urban MObility (SUMO)
-
-
-  
 Service and leadership
 ======
-* * December 2016: New Year's Eve Party Host
+* December 2016: New Year's Eve Party Host
   * School of Electronic and Information Engineering in HIT
 
 * September 2017-September 2018: Student Union Member
