@@ -31,6 +31,7 @@ Proc. 17th Int. Wireless Commun. Mobile Comput. Conf. (IWCMC)
 
 **2.** Chenguang He, **Guanqiao Qu**, Liang Ye, Shouming Wei, "A two-level communication routing algorithm based on vehicle attribute information for vehicular Ad Hoc
 network," *Wireless Communications and Mobile Computing*, vol. 2021, pp. 1–14, 2021.
+
 [*Click here to download.*](http://guanqiaoqu.com/files/WCMC.pdf)
 
 **1.** Chenguang He, **Guanqiao Qu**, Liang Ye, Shouming Wei, "A cluster routing algorithm based on vehicle social information for VANET," in *Proc. 9th International Conference on Communications, Signal Processing, and Systems (CSPS)* Jul. 2020, pp. 522-528.
