@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in School of Electronics and Information Engineering, Harbin Institute of Technology (HIT), 2016-2020
-* M.S. in School of Electronics and Information Engineering, Harbin Institute of Technology (HIT), 2020-2022
+* M.Eng. in School of Electronics and Information Engineering, Harbin Institute of Technology (HIT), 2020-2022
 
 
 Awards
