@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-The author with an asterisk (\*) next to the author's name is my tutor.
+The author with an asterisk (\*) next to the author's name is my tutor Associate Professor Chenguang He.
 
 Accepted Papers 
 ===
