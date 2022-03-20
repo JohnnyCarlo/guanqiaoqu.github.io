@@ -15,25 +15,32 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Published Papers 
-===
-**1.** He C, **Qu G**, Ye L, Wei S. A Two-Level Communication Routing Algorithm Based on Vehicle Attribute Information for Vehicular Ad Hoc Network[J]. *Wireless Communications and Mobile Computing*, 2021, 2021:1-14.
-
-[*Click here to download.*](http://guanqiaoqu.com/files/WCMC.pdf)
-
-**2.** He C, **Qu G**, Wei S. A Vehicular Communication Routing Algorithm Based on Graph Theory[C]. *2021 International Wireless Communications and Mobile Computing (IWCMC)*. 2021:2176-2181.
-
-[*Click here to download.*](http://guanqiaoqu.com/files/IWCMC'2021.pdf)
-
-**3.** He C, **Qu G**, Ye L, Wei S. A Cluster Routing Algorithm Based on Vehicle Social Information for VANET[C]. *The 9th International Conference on Communications, Signal Processing, and Systems (CSPS)*. 2021:522-528
-
-[*Click here to download.*](http://guanqiaoqu.com/files/CSPS'2020.pdf)
 
 Accepted Papers 
 ===
-**1.** He C, **Qu G**, Chen Q , Meng W. A Clustering-Routing Method to Preprocess Data for Massive Internet of Things[C]. *2022 IEEE International Conference on Communications (ICC)*. 2022. 
+**1.** Chenguang He, **Guanqiao Qu**, Qian Chen, Weixiao Meng. A clustering-routing method to preprocess data for massive Internet of things. *2022 IEEE International Conference on Communications (ICC)*. 2022. 
+
+Published Papers 
+===
+**3.** Chenguang He, **Guanqiao Qu**, Shouming Wei. A vehicular communication routing algorithm based on graph theory. in *Proc. 17th International Wireless Communications and Mobile Computing Conference (IWCMC)*, Harbin, China, Jun. 2021, pp. 2176-2181.
+<!---
+Proc. 17th Int. Wireless Commun. Mobile Comput. Conf. (IWCMC)
+-->
+
+[*Click here to download.*](http://guanqiaoqu.com/files/IWCMC'2021.pdf)
+
+**2.** Chenguang He, **Guanqiao Qu**, Liang Ye, Shouming Wei, "A two-level communication routing algorithm based on vehicle attribute information for vehicular Ad Hoc
+network," *Wireless Communications and Mobile Computing*, vol. 2021, pp. 1–14, 2021.
+
+[*Click here to download.*](http://guanqiaoqu.com/files/WCMC.pdf)
+
+**1.** Chenguang He, **Guanqiao Qu**, Liang Ye, Shouming Wei, "A cluster routing algorithm based on vehicle social information for VANET," in *Proc. 9th International Conference on Communications, Signal Processing, and Systems (CSPS)* Jul. 2020, pp. 522-528.
+
+[*Click here to download.*](http://guanqiaoqu.com/files/CSPS'2020.pdf)
 
 
 Accepted Patents
 ===
 **1.** 何晨光，**曲冠桥**，叶亮，马琳，王雨. 基于AODV协议的多节点自组网传输的模拟方法及模拟系统. 申请号：202111033022.4.
+
+**1.** Chenguang He, **Guanqiao Qu**, Liang Ye, Lin Ma, Yu Wang. 2021. Simulation method and system of multi-node Ad Hoc network transmission based on AODV. C.N. Patent Application 202111033022.4, filed September 2021 Patent Pending.
