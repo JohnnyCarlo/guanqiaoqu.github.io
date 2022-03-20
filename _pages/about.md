@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 This is Guanqiao Qu's home on the web!
-I'm currently pursuing the M.Sc. degree in school of electronic and information engineering from [Harbin Institute of Technology](https://www.hit.edu.cn/). I also served as a reviewer of ICC 2022.
+I received the Bachelor degree in the School of Electronics and Information Engineering from [Harbin Institute of Technology](https://www.hit.edu.cn/) (HIT), Harbin, China, in 2020, where I am currently pursuing the Master degree.
 
 Research Interest
 ======
-My research interest includes resource allocation, mobile edge computing, vechicular ad hoc network, and IoT.
+My research interests include resource allocation, mobile edge computing, vehicular ad hoc network, and Internet of Things.
 
 Daily Life
 ======
