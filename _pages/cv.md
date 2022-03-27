@@ -38,7 +38,7 @@ Awards
 Skills
 ======
 * Software Skill
-  * Matlab
+  * MATLAB
   * Linux
   * Origin
   * Office
