@@ -19,7 +19,7 @@ change "permalink: /markdown/" to "permalink: /projects/"
 * Details
   * Designed the communication scheme.
   * Proposed and simulated two communication algorithms according to the requirements of the nodes.
-  * Tools: Linux, C++, Matlab
+  * Tools: Linux, C++, MATLAB
 
 2.China-Chile ICT "The Belt and Road " Joint Laboratory Construction and Joint Research (SQ2020YFE020708)
 ===
@@ -29,7 +29,11 @@ change "permalink: /markdown/" to "permalink: /projects/"
 * Details
   * Designed the communication model for Massive IoT devices in areas without the cellular network to access the Internet with Vehicular ad hoc Networks.
   * Proposed the communication scheme to minimize total network energy consumption and maximize communication reliability by optimizing communication strategy and relay selection.
-  * Tools: Matlab
+  * Designed the communication model for Massive IoT devices in areas without the cellular network to access the cellular network with vehicular Ad Hoc networks.
+  * Proposed the communication scheme to minimize total network energy consumption and maximize communication reliability by optimizing communication strategy and relay selection.
+  * Proposed the communication scheme to maximize the energy efficiency of transmitting Massive IoT packets from Massive IoT devices to the vehicles by jointly optimizing the network resources allocation and connection strategy.
+  * Proposed the routing algorithm to decide data forwarding routes and offloading routes. 
+  * Tools: MATLAB
 
 3.Research on \*\*\*\*\*\*\*\*\* and Transmission Optimization Technology (HHX20641X002)
 ===
@@ -46,7 +50,7 @@ change "permalink: /markdown/" to "permalink: /projects/"
 * Sep 2019 – Mar 2021
 * Supervisor: Chenguang He, Lin Ma, Liang Ye, Shuai Han, Weixiao Meng
 * Details
-  * Made the network interface card into ad hoc networks by using AODV routing protocol.
+  * Made the network interface card into Ad Hoc networks by using AODV routing protocol.
   * Developed a program based on UDP protocol and socket interface to extend the simple case to the general case.  
   * Simulated the hop counts and delays when multiple virtual nodes communicate.
   * Tools: Linux, C++
