@@ -21,7 +21,7 @@ change "permalink: /markdown/" to "permalink: /projects/"
   * Proposed and simulated two communication algorithms according to the requirements of the nodes.
   * Tools: Linux, C++, MATLAB
 
-2.China-Chile ICT "The Belt and Road " Joint Laboratory Construction and Joint Research (SQ2020YFE020708)
+2.China-Chile ICT "The Belt and Road" Joint Laboratory Construction and Joint Research (SQ2020YFE020708)
 ===
 * National Science and Technology Project
 * Sep 2021 – Present
