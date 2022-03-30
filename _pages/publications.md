@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 link rel: stylesheet
 type: text/css
-href: guanqiaoqu.github.io/auto-number-title.css
+href: /auto-number-title.css
 
 ---
 
