@@ -62,19 +62,19 @@ Published Papers
 ==
 1. Chenguang He\*, **Guanqiao Qu**, Liang Ye, Shouming Wei, "A cluster routing algorithm based on vehicle social information for VANET," in *Proc. 9th International Conference on Communications, Signal Processing, and Systems (CSPS)* Jul. 2020, pp. 522-528.
 
-[*Click here to download.*](http://guanqiaoqu.com/files/CSPS'2020.pdf)
+    [*Click here to download.*](http://guanqiaoqu.com/files/CSPS'2020.pdf)
 
 2. Chenguang He\*, **Guanqiao Qu**, Liang Ye, Shouming Wei, "A two-level communication routing algorithm based on vehicle attribute information for vehicular Ad Hoc
 network," *Wireless Communications and Mobile Computing*, vol. 2021, pp. 1–14, 2021.
 
-[*Click here to download.*](http://guanqiaoqu.com/files/WCMC.pdf)
+    [*Click here to download.*](http://guanqiaoqu.com/files/WCMC.pdf)
 
 3. Chenguang He\*, **Guanqiao Qu**, Shouming Wei, "A vehicular communication routing algorithm based on graph theory," in *Proc. 17th International Wireless Communications and Mobile Computing Conference (IWCMC)*, Harbin, China, Jun. 2021, pp. 2176-2181.
 <!---
 Proc. 17th Int. Wireless Commun. Mobile Comput. Conf. (IWCMC)
 -->
 
-[*Click here to download.*](http://guanqiaoqu.com/files/IWCMC'2021.pdf)
+    [*Click here to download.*](http://guanqiaoqu.com/files/IWCMC'2021.pdf)
 
 
 Accepted Patents
