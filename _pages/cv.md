@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+==
 * B.S. in School of Electronics and Information Engineering, Harbin Institute of Technology (HIT), 2016-2020
 * M.Eng. in School of Electronics and Information Engineering, Harbin Institute of Technology (HIT), 2020-2022
 
 
 Awards
-===
+==
 * 2021 
   * "Rice" Scholarship of the 28th Research Institute of China Electronics Technology Group Corporation
   * HIT First-class scholarship for graduate students 
@@ -36,7 +36,7 @@ Awards
 
 
 Skills
-======
+==
 * Software Skill
   * MATLAB
   * Linux
@@ -51,14 +51,14 @@ Skills
 
 
 Work experience
-======
+==
 * Summer 2019: Intern
   * Shenyang Neusoft Group
   * Details: I organised the team to develop a micro visualization operating systerm for Intelligent Agriculture.
 
 
 Service and leadership
-======
+==
 * March 30 2022: Volunteer for the COVID-19 Test
   * HIT
   * Details: I maintained order and assisted doctors in COVID-19 Test for the whole school.
