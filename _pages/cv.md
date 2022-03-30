@@ -61,7 +61,7 @@ Service and leadership
 ==
 * March 30 2022: Volunteer for the COVID-19 Test
   * HIT
-  * Details: I maintained order and assisted doctors in COVID-19 Test for the whole school.
+  * Details: As a student team leader, I maintained order and assisted doctors in COVID-19 Test for all teachers and students in HIT.
 
 * December 2016: New Year's Eve Party Host
   * School of Electronic and Information Engineering in HIT
