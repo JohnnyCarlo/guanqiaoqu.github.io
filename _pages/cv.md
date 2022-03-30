@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education~
+Education
 ==
 * B.S. in School of Electronics and Information Engineering, Harbin Institute of Technology (HIT), 2016-2020
 * M.Eng. in School of Electronics and Information Engineering, Harbin Institute of Technology (HIT), 2020-2022
