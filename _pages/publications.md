@@ -21,9 +21,9 @@ href: auto-number-title.css
 
 The author with an asterisk (\*) next to the author's name is my tutor Associate Professor Chenguang He.
 
-Accepted Papers 
+# Accepted Papers 
 ===
-**1.** Chenguang He\*, **Guanqiao Qu**, Qian Chen, Weixiao Meng, "A clustering-routing method to preprocess data for massive Internet of things," *2022 IEEE International Conference on Communications (ICC)*. 2022. 
+## **1.** Chenguang He\*, **Guanqiao Qu**, Qian Chen, Weixiao Meng, "A clustering-routing method to preprocess data for massive Internet of things," *2022 IEEE International Conference on Communications (ICC)*. 2022. 
 
 Published Papers 
 ===
