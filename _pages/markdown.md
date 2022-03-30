@@ -47,7 +47,7 @@ redirect_from:
 change "permalink: /markdown/" to "permalink: /projects/"
 -->
 # Research Projects
-## A Software Development (\*\*\*\*\*\*\*\*\*\*\*\*)~
+## A Software Development (\*\*\*\*\*\*\*\*\*\*\*\*)
 * Basic Strengthening Key Projects
 * Sep 2021 – Present
 * Supervisor: Chenguang He, Lin Ma, Liang Ye, Weixiao Meng
