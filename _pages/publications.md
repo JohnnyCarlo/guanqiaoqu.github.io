@@ -4,8 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 link rel: stylesheet
-type: text/css
-href: /auto-number-title.css
+link type: text/css
+link href: /auto-number-title.css
 
 ---
 
