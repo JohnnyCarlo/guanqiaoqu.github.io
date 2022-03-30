@@ -70,9 +70,9 @@ network," *Wireless Communications and Mobile Computing*, vol. 2021, pp. 1–14,
     [*Click here to download.*](http://guanqiaoqu.com/files/WCMC.pdf)
 
 3. Chenguang He\*, **Guanqiao Qu**, Shouming Wei, "A vehicular communication routing algorithm based on graph theory," in *Proc. 17th International Wireless Communications and Mobile Computing Conference (IWCMC)*, Harbin, China, Jun. 2021, pp. 2176-2181.
-<!---
-Proc. 17th Int. Wireless Commun. Mobile Comput. Conf. (IWCMC)
--->
+    <!---
+    Proc. 17th Int. Wireless Commun. Mobile Comput. Conf. (IWCMC)
+    -->
 
     [*Click here to download.*](http://guanqiaoqu.com/files/IWCMC'2021.pdf)
 
