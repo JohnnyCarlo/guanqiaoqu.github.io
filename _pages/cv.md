@@ -59,13 +59,16 @@ Work experience
 
 Service and leadership
 ======
+* March 30 2022: Volunteer for the COVID-19 Test
+  * HIT
+  * Details: I maintained order and assisted doctors in COVID-19 Test for the whole school.
+
 * December 2016: New Year's Eve Party Host
   * School of Electronic and Information Engineering in HIT
 
 * September 2017-September 2018: Student Union Member
   * School of Electronic and Information Engineering in HIT
   * Details: I organized the Mid-Autumn Festival Gala of the School of Electronic and Information Engineering in HIT, the 2nd Poetry Conference of HIT, the 2018 HIT Guinness Event, and the 2018 "ZTE Cup" Running Man Campus Challenge.
-
 
 <!---
  Publications
