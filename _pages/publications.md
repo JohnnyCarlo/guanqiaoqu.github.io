@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 <style type="text/css">
     h1 { counter-reset: h2counter; }
     h2 { counter-reset: h3counter; }
@@ -36,13 +42,6 @@
                 counter(h6counter) ".\0000a0\0000a0";
     }
 </style>
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
