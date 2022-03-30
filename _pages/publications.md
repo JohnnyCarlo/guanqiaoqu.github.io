@@ -42,5 +42,4 @@ network," *Wireless Communications and Mobile Computing*, vol. 2021, pp. 1–14,
 
 Accepted Patents
 ==
-1. 何晨光\*，**曲冠桥**，叶亮，马琳，王雨. 基于AODV协议的多节点自组网传输的模拟方法及模拟系统. 申请号：202111033022.4.
-(Chenguang He\*, **Guanqiao Qu**, Liang Ye, Lin Ma, Yu Wang. 2021. Simulation method and system of multi-node Ad Hoc network transmission based on AODV. C.N. Patent Application 202111033022.4, filed September 2021 Patent Pending.)
+1. 何晨光\*，**曲冠桥**，叶亮，马琳，王雨. 基于AODV协议的多节点自组网传输的模拟方法及模拟系统. 申请号：202111033022.4.  (Chenguang He\*, **Guanqiao Qu**, Liang Ye, Lin Ma, Yu Wang. 2021. Simulation method and system of multi-node Ad Hoc network transmission based on AODV. C.N. Patent Application 202111033022.4, filed September 2021 Patent Pending.)
