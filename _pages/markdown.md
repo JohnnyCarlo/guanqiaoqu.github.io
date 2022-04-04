@@ -9,6 +9,8 @@ redirect_from:
 <!---
 change "permalink: /markdown/" to "permalink: /projects/"
 -->
+
+
 Research Projects
 ==
 1. A Software Development (\*\*\*\*\*\*\*\*\*\*\*\*)
