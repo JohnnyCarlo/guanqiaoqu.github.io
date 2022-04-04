@@ -5,6 +5,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+<!---
 <style type="text/css">
     h1 { counter-reset: h2counter; }
     h2 { counter-reset: h3counter; }
@@ -43,11 +44,13 @@ redirect_from:
                 counter(h6counter) ".\0000a0\0000a0";
     }
 </style>
+-->
 <!---
 change "permalink: /markdown/" to "permalink: /projects/"
 -->
 Research Projects
 ==
+
 1. A Software Development (\*\*\*\*\*\*\*\*\*\*\*\*)
 * Basic Strengthening Key Projects
 * Sep 2021 – Present
