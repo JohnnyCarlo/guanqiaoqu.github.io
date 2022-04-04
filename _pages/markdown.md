@@ -13,7 +13,7 @@ change "permalink: /markdown/" to "permalink: /projects/"
 
 Research Projects
 ==
-1. A Software Development (\*\*\*\*\*\*\*\*\*\*\*\*)
+1. **A Software Development (\*\*\*\*\*\*\*\*\*\*\*\*)**
 * Basic Strengthening Key Projects
 * Sep 2021 – Present
 * Supervisor: Chenguang He, Lin Ma, Liang Ye, Weixiao Meng
@@ -22,7 +22,7 @@ Research Projects
   * Proposed and simulated two communication algorithms according to the requirements of the nodes.
   * Tools: Linux, C++, MATLAB
 
-2. China-Chile ICT "The Belt and Road" Joint Laboratory Construction and Joint Research (SQ2020YFE020708)
+2. **China-Chile ICT "The Belt and Road" Joint Laboratory Construction and Joint Research (SQ2020YFE020708)**
 * National Science and Technology Project
 * Sep 2021 – Present
 * Supervisor: Chenguang He, Shuyi Chen, Weixiao Meng
@@ -35,7 +35,7 @@ Research Projects
   * Proposed the routing algorithm to decide data forwarding routes and offloading routes. 
   * Tools: MATLAB
 
-3. Research on \*\*\*\*\*\*\*\*\* and Transmission Optimization Technology (HHX20641X002)
+3. **Research on \*\*\*\*\*\*\*\*\* and Transmission Optimization Technology (HHX20641X002)**
 * Enterprise Cooperation Project
 * Sep 2020 – Oct 2020
 * Supervisor: Chenguang He, Lin Ma, Liang Ye, Shuai Han, Weixiao Meng
@@ -43,7 +43,7 @@ Research Projects
   * Simulated parallel communications of nodes under AOMDV routing protocol and measured network performance.
   * Tools: Network Simulator version 2 (NS-2)
 
-4. Research on Communication Technology of Indoor-and-Outdoor Unmanned Clustering WANET (F2100115)
+4. **Research on Communication Technology of Indoor-and-Outdoor Unmanned Clustering WANET (F2100115)**
 * Enterprise Cooperation Project
 * Sep 2019 – Mar 2021
 * Supervisor: Chenguang He, Lin Ma, Liang Ye, Shuai Han, Weixiao Meng
@@ -53,7 +53,7 @@ Research Projects
   * Simulated the hop counts and delays when multiple virtual nodes communicate.
   * Tools: Linux, C++
 
-5. Research on Cluster Routing Algorithm Based on Vehicle Attribute Information for Vehicular Ad Hoc Network
+5. **Research on Cluster Routing Algorithm Based on Vehicle Attribute Information for Vehicular Ad Hoc Network**
 * Bachelor thesis in HIT
 * Sep 2019 – Jun 2020
 * Supervisor: Chenguang He
