@@ -46,7 +46,7 @@ redirect_from:
 <!---
 change "permalink: /markdown/" to "permalink: /projects/"
 -->
-# Research Projects
+
 ## A Software Development (\*\*\*\*\*\*\*\*\*\*\*\*)
 * Basic Strengthening Key Projects
 * Sep 2021 – Present
