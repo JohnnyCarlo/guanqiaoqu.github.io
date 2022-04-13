@@ -17,6 +17,8 @@ Education
 
 Awards
 ==
+* 2022 
+  * HIT Outstanding Graduates
 * 2021 
   * "Rice" Scholarship of the 28th Research Institute of China Electronics Technology Group Corporation
   * HIT First-class scholarship for graduate students 
