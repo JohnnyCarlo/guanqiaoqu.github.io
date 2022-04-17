@@ -18,6 +18,7 @@ Education
 Awards
 ==
 * 2022 
+  * HIT Outstanding Communist Youth League member 
   * HIT Outstanding Graduates
 * 2021 
   * "Rice" Scholarship of the 28th Research Institute of China Electronics Technology Group Corporation
@@ -33,7 +34,7 @@ Awards
   * HIT Merit Student
 * 2017 
   * People’s Scholarship
-  * HIT Excellent League Member
+  * HIT Outstanding Communist Youth League member 
   * HIT Model Student
 
 
