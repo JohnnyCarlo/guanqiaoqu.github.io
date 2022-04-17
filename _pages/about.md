@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Guanqiao Qu's home on the web!
+This is Guanqiao (Gavin) Qu's home on the web!
 I received the Bachelor degree in the School of Electronics and Information Engineering from [Harbin Institute of Technology](https://www.hit.edu.cn/) (HIT), Harbin, China, in 2020, where I am currently pursuing the Master degree.
 
 Research Interest
