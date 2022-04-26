@@ -65,7 +65,7 @@ Service and leadership
 * April 25 2022: Volunteer for the COVID-19 Test
   * HIT
   * Details: As a student team leader, I maintained order and assisted doctors in COVID-19 Test for all teachers and students in HIT.
-  * News has been published in our [school](http://seie.hit.edu.cn/2022/0426/c9262a272359/page.htm) and [HIT](http://today.hit.edu.cn/article/2022/04/26/94004)
+  * News has been published in our [school](http://seie.hit.edu.cn/2022/0426/c9262a272359/page.htm) and [HIT](http://today.hit.edu.cn/article/2022/04/26/94004).
 * March 30 2022: Volunteer for the COVID-19 Test
   * HIT
   * Details: As a student team leader, I maintained order and assisted doctors in COVID-19 Test for all teachers and students in HIT.
