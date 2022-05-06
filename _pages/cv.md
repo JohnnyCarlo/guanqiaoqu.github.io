@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ==
-* B.S. in School of Electronics and Information Engineering, Harbin Institute of Technology (HIT), 2016-2020
+* B.E. in School of Electronics and Information Engineering, Harbin Institute of Technology (HIT), 2016-2020
 * M.Eng. in School of Electronics and Information Engineering, Harbin Institute of Technology (HIT), 2020-2022
 
 
@@ -62,18 +62,18 @@ Work experience
 
 Service and leadership
 ==
-* April 25 2022: Volunteer for the COVID-19 Test
+* Volunteer for the COVID-19 Test
+  * April 25 2022, March 30 2022
   * HIT
   * Details: As a student team leader, I maintained order and assisted doctors in COVID-19 Test for all teachers and students in HIT.
   * News has been published in our [school](http://seie.hit.edu.cn/2022/0426/c9262a272359/page.htm) and [HIT](http://today.hit.edu.cn/article/2022/04/26/94004) website.
-* March 30 2022: Volunteer for the COVID-19 Test
-  * HIT
-  * Details: As a student team leader, I maintained order and assisted doctors in COVID-19 Test for all teachers and students in HIT.
 
-* December 2016: New Year's Eve Party Host
+* New Year's Eve Party Host
+  * December 2016
   * School of Electronic and Information Engineering in HIT
 
-* September 2017-September 2018: Student Union Member
+* Student Union Member
+  * September 2017-September 2018
   * School of Electronic and Information Engineering in HIT
   * Details: I organized the Mid-Autumn Festival Gala of the School of Electronic and Information Engineering in HIT, the 2nd Poetry Conference of HIT, the 2018 HIT Guinness Event, and the 2018 "ZTE Cup" Running Man Campus Challenge.
 
