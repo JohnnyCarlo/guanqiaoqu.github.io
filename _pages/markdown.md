@@ -19,7 +19,7 @@ Research Projects
 * Supervisor: Chenguang He, Lin Ma, Liang Ye, Weixiao Meng
 * Details
   * Designed the communication scheme.
-  * Proposed and simulated two communication algorithms according to the requirements of the nodes.
+  * Proposed and simulated four communication algorithms according to the requirements of the nodes.
   * Tools: Linux, C++, MATLAB
 
 2. **China-Chile ICT "The Belt and Road" Joint Laboratory Construction and Joint Research (SQ2020YFE020708)**
@@ -32,8 +32,9 @@ Research Projects
   * Designed the communication model for Massive IoT devices in areas without the cellular network to access the cellular network with vehicular Ad Hoc networks.
   * Proposed the communication scheme to minimize total network energy consumption and maximize communication reliability by optimizing communication strategy and relay selection.
   * Proposed the communication scheme to maximize the energy efficiency of transmitting Massive IoT packets from Massive IoT devices to the vehicles by jointly optimizing the network resources allocation and connection strategy.
+  * Proposed the packet forwarding and offloading algorithm by considering the data QoS requirements, vehicles’ positions on the real roads, and network offload to decide packet forwarding and offloading strategies. 
   * Proposed the routing algorithm to decide data forwarding routes and offloading routes. 
-  * Tools: MATLAB
+  * Tools: MATLAB, Simulation of Urban MObility (SUMO)
 
 3. **Research on \*\*\*\*\*\*\*\*\* and Transmission Optimization Technology (HHX20641X002)**
 * Enterprise Cooperation Project
@@ -60,7 +61,7 @@ Research Projects
 * Details
   * Investigated the existing routing and clustering algorithms.
   * Proposed a cluster-and-routing algorithm based on vehicles’ information to meet the demand for efficient and stable low-latency routes.
-  * Tools: NS-2, Simulation of Urban MObility (SUMO), MATLAB
+  * Tools: NS-2, SUMO, MATLAB
 
 
 
