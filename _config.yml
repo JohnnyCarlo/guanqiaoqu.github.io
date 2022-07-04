@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Guanqiao (Gavin) Qu"
   avatar           : "profile_qgq.jpg"
-  bio              : "A Master Student"
+  #bio              : "A Master Student"
   location         : "Harbin, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
