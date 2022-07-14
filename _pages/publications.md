@@ -45,5 +45,6 @@ Under Review Papers
   
 Patents
 ==
-1. 何晨光\*，**曲冠桥**，叶亮，马琳，王雨. 基于AODV协议的多节点自组网传输的模拟方法及模拟系统. 申请号：202111033022.4.  (Chenguang He\*, **Guanqiao Qu**, Liang Ye, Lin Ma, Yu Wang. 2021. Simulation method and system of multi-node Ad Hoc network transmission based on AODV. C.N. Patent Application 202111033022.4, filed September 2021 Patent Pending.)
-2. 何晨光\*，**曲冠桥**，陈倩，陈舒怡，孟维晓. 一种面向海量节点的大规模自组网分簇组网算法. (Chenguang He\*, **Guanqiao Qu**, Qian Chen, Shuyi Chen, Weixiao Meng. 2022 A clustering algorithm for massive nodes in the large-scale Ad Hoc network.)
+1. 何晨光\*，**曲冠桥**，叶亮，马琳，王雨. 基于AODV协议的多节点自组网传输的模拟方法及模拟系统. 申请号：202111033022.4.  (Chenguang He\*, **Guanqiao Qu**, Liang Ye, Lin Ma, Yu Wang. Simulation method and system of multi-node Ad Hoc network transmission based on AODV. September 2021 Patent Pending. C.N. Patent Application 202111033022.4.)
+2. 何晨光\*，**曲冠桥**，陈倩，陈舒怡，孟维晓. 一种面向海量节点的大规模自组网分簇组网算法. 申请号：202210687731.2. (Chenguang He\*, **Guanqiao Qu**, Qian Chen, Shuyi Chen, Weixiao Meng. A clustering algorithm for massive nodes in the large-scale Ad Hoc network. June 2022 Patent Pending. C.N. Patent Application 202210687731.2.)
+3. 叶亮，杨宇，马琳，张昱哲，何晨光\*，**曲冠桥**. 基于双极化天线的全双工自组网快速分簇算法. 申请号：202210570188.8. (Liang Ye, Yu Yang, Lin Ma, Yuzhe Zhang, Chenguang He\*, **Guanqiao Qu**. A fast clustering algorithm for full-duplex ad hoc networks based on dual-polarized antennas. May 2022 Patent Pending. C.N. Patent Application 202210570188.8.)
