@@ -19,7 +19,7 @@ The author with an asterisk (\*) next to the author's name is my tutor Associate
 
 Published Papers 
 ==
-1. Chenguang He\*, **Guanqiao Qu**, Qian Chen, Weixiao Meng, "A clustering-routing method to preprocess data for massive Internet of things," *2022 IEEE International Conference on Communications (ICC)*. 2022.  
+1. \[<font color = "red">ICC'2022</font>\] Chenguang He\*, **Guanqiao Qu**, Qian Chen, Weixiao Meng, "A clustering-routing method to preprocess data for massive Internet of things," *2022 IEEE International Conference on Communications (ICC)*. 2022.  
 
 2. Chenguang He\*, **Guanqiao Qu**, Shouming Wei, "A vehicular communication routing algorithm based on graph theory," in *Proc. 17th International Wireless Communications and Mobile Computing Conference (IWCMC)*, Harbin, China, Jun. 2021, pp. 2176-2181.
     <!---
