@@ -19,30 +19,18 @@ The author with an asterisk (\*) next to the author's name is my tutor Associate
 
 Published Papers 
 ==
-1. \[<font color = "red">ICC'2022</font>\] Chenguang He\*, **Guanqiao Qu**, Qian Chen, Weixiao Meng, "A clustering-routing method to preprocess data for massive Internet of things," *2022 IEEE International Conference on Communications (ICC)*. 2022.  
-
-2. \[<font color = "red">IWCMC'2021</font>\] Chenguang He\*, **Guanqiao Qu**, Shouming Wei, "A vehicular communication routing algorithm based on graph theory," in *Proc. 17th International Wireless Communications and Mobile Computing Conference (IWCMC)*, Harbin, China, Jun. 2021, pp. 2176-2181.
-    <!---
-    Proc. 17th Int. Wireless Commun. Mobile Comput. Conf. (IWCMC)
-[*Click here to download.*](http://guanqiaoqu.com/files/IWCMC'2021.pdf)
-    -->
-
-3. \[<font color = "red">WCMC</font>\] Chenguang He\*, **Guanqiao Qu**, Liang Ye, Shouming Wei, "A two-level communication routing algorithm based on vehicle attribute information for vehicular Ad Hoc
-network," *Wireless Communications and Mobile Computing*, vol. 2021, pp. 1–14, 2021.
-<!---
-    [*Click here to download.*](http://guanqiaoqu.com/files/WCMC.pdf)
- -->
- 
-4. \[<font color = "red">CSPS'2020</font>\] Chenguang He\*, **Guanqiao Qu**, Liang Ye, Shouming Wei, "A cluster routing algorithm based on vehicle social information for VANET," in *Proc. 9th International Conference on Communications, Signal Processing, and Systems (CSPS)* Jul. 2020, pp. 522-528.
+1.  \[<font color = "red">GLOBECOM'2022</font>\] **Guanqiao Qu**, Chenguang He\*, Qian Chen, Weixiao Meng, "Resource allocation in vehicle-aided MIoT: How to enhance energy efficiency in packet uploading?," *2022 IEEE Global Communications Conference (Globecom)*. 2022. Accepted.
+2.  \[<font color = "red">ICC'2022</font>\] Chenguang He\*, **Guanqiao Qu**, Qian Chen, Weixiao Meng, "A clustering-routing method to preprocess data for massive Internet of things," *2022 IEEE International Conference on Communications (ICC)*. 2022. Accepted.
+3. \[<font color = "red">IWCMC'2021</font>\] Chenguang He\*, **Guanqiao Qu**, Shouming Wei, "A vehicular communication routing algorithm based on graph theory," in *Proc. 17th International Wireless Communications and Mobile Computing Conference (IWCMC)*, Harbin, China, Jun. 2021, pp. 2176-2181.
+4. \[<font color = "red">WCMC</font>\] Chenguang He\*, **Guanqiao Qu**, Liang Ye, Shouming Wei, "A two-level communication routing algorithm based on vehicle attribute information for vehicular Ad Hoc network," *Wireless Communications and Mobile Computing*, vol. 2021, pp. 1–14, 2021.
+5. \[<font color = "red">CSPS'2020</font>\] Chenguang He\*, **Guanqiao Qu**, Liang Ye, Shouming Wei, "A cluster routing algorithm based on vehicle social information for VANET," in *Proc. 9th International Conference on Communications, Signal Processing, and Systems (CSPS)* Jul. 2020, pp. 522-528.
 <!---
     [*Click here to download.*](http://guanqiaoqu.com/files/CSPS'2020.pdf)
  -->
- 
+<!---
 Under Review Papers
 ==
-1. \[<font color = "red">GLOBECOM'2022</font>\] **Guanqiao Qu**, Chenguang He\*, Qian Chen, Weixiao Meng, "Resource allocation in vehicle-aided MIoT: How to enhance energy efficiency in packet uploading?," *2022 IEEE Global Communications Conference (Globecom)*. 2022. 
-  
-  
+ -->
 Patents
 ==
 1. 何晨光\*，**曲冠桥**，陈倩，陈舒怡，孟维晓，杨宇. 一种面向海量节点的大规模自组网分簇组网方法. 申请号：202210687731.2. (Chenguang He\*, **Guanqiao Qu**, Qian Chen, Shuyi Chen, Weixiao Meng, Yu Yang. A clustering method for massive nodes in the large-scale ad hoc network. June 2022 Patent Pending. C.N. Patent Application 202210687731.2.)
