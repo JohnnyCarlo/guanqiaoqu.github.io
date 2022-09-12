@@ -18,14 +18,14 @@ Education
 Awards
 ==
 * 2022 
-  * HIT Outstanding Communist Youth League member 
+  * HIT Outstanding Communist Youth League Member 
   * HIT Outstanding Graduates
 * 2021 
   * "Rice" Scholarship of the 28th Research Institute of China Electronics Technology Group Corporation
-  * HIT First-class scholarship for graduate students 
+  * HIT first-class Scholarship for graduate students 
 * 2020 
   * National Third Prize in "Huawei Cup" The 17th China Post-Graduate Mathematical Contest in Modeling (Team Leader)
-  * HIT First-class scholarship for graduate students 
+  * HIT first-class Scholarship for graduate students 
   * HIT Outstanding Graduates
 * 2019 
   * National Third Prize in 2019 National English Competition for College Students
@@ -34,7 +34,7 @@ Awards
   * HIT Merit Student
 * 2017 
   * People’s Scholarship
-  * HIT Outstanding Communist Youth League member 
+  * HIT Outstanding Communist Youth League Member 
   * HIT Model Student
 
 
@@ -63,19 +63,25 @@ Work experience
 Service and leadership
 ==
 * Volunteer for the COVID-19 Test
-  * April 25 2022, March 30 2022
+  * March 2022-April 2022
   * HIT
-  * Details: As a student team leader, I maintained order and assisted doctors in COVID-19 Test for all teachers and students in HIT.
+  * Details: As a student team leader, I assisted doctors in COVID-19 Test for all teachers and students in HIT.
   * News has been published in our [school](http://seie.hit.edu.cn/2022/0426/c9262a272359/page.htm) and [HIT](http://today.hit.edu.cn/article/2022/04/26/94004) website.
+  <!---
+    April 25 2022, March 30 2022
+  -->
 
-* New Year's Eve Party Host
-  * December 2016
-  * School of Electronic and Information Engineering in HIT
+* TPC Member for ICC 2022
+  * January 2022
 
 * Student Union Member
   * September 2017-September 2018
   * School of Electronic and Information Engineering in HIT
   * Details: I organized the Mid-Autumn Festival Gala of the School of Electronic and Information Engineering in HIT, the 2nd Poetry Conference of HIT, the 2018 HIT Guinness Event, and the 2018 "ZTE Cup" Running Man Campus Challenge.
+
+* New Year's Eve Party Host
+  * December 2016
+  * School of Electronic and Information Engineering in HIT
 
 <!---
  Publications
