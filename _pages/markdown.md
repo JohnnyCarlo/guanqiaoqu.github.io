@@ -27,16 +27,14 @@ Research Projects
 * Sep 2021 – Present
 * Supervisor: Chenguang He, Shuyi Chen, Weixiao Meng
 * Details
-  * Designed the communication model for Massive IoT devices in areas without the cellular network to access the Internet with Vehicular ad hoc Networks.
+  * Designed the communication model for Massive IoT devices in areas without the cellular network to access the cellular network with vehicular ad hoc networks.
   * Proposed the communication scheme to minimize total network energy consumption and maximize communication reliability by optimizing communication strategy and relay selection.
-  * Designed the communication model for Massive IoT devices in areas without the cellular network to access the cellular network with vehicular Ad Hoc networks.
-  * Proposed the communication scheme to minimize total network energy consumption and maximize communication reliability by optimizing communication strategy and relay selection.
-  * Proposed the communication scheme to maximize the energy efficiency of transmitting Massive IoT packets from Massive IoT devices to the vehicles by jointly optimizing the network resources allocation and connection strategy.
-  * Proposed the packet forwarding and offloading algorithm by considering the data QoS requirements, vehicles’ positions on the real roads, and network offload to decide packet forwarding and offloading strategies. 
-  * Proposed the routing algorithm to decide data forwarding routes and offloading routes. 
+  * Exploited the communication scheme to maximize the energy efficiency of uploading packets from Massive IoT devices to the vehicles by jointly optimizing the network resources allocation and connection strategy.
+  * Developed the packet forwarding and offloading algorithm by considering the data QoS requirements, vehicles’ positions on the real roads, and network offload to decide packet forwarding and offloading strategies. 
+
   * Tools: MATLAB, Simulation of Urban MObility (SUMO)
 
-3. **Research on \*\*\*\*\*\*\*\*\* and Transmission Optimization Technology (HHX20641X002)**
+3. **Research on \*\*\*\*\*\*\*\*\* and Transmission Optimization Technology (\*\*\*\*\*\*\*\*\*\*\*\*)**
 * Enterprise Cooperation Project
 * Sep 2020 – Oct 2020
 * Supervisor: Chenguang He, Lin Ma, Liang Ye, Shuai Han, Weixiao Meng
@@ -49,7 +47,7 @@ Research Projects
 * Sep 2019 – Mar 2021
 * Supervisor: Chenguang He, Lin Ma, Liang Ye, Shuai Han, Weixiao Meng
 * Details
-  * Made the network interface card into Ad Hoc networks by using AODV routing protocol.
+  * Made the network interface card into ad hoc networks by using AODV routing protocol.
   * Developed a program based on UDP protocol and socket interface to extend the simple case to the general case.  
   * Simulated the hop counts and delays when multiple virtual nodes communicate.
   * Tools: Linux, C++
@@ -60,7 +58,7 @@ Research Projects
 * Supervisor: Chenguang He
 * Details
   * Investigated the existing routing and clustering algorithms.
-  * Proposed a cluster-and-routing algorithm based on vehicles’ information to meet the demand for efficient and stable low-latency routes.
+  * Proposed a clustering-routing algorithm based on vehicles’ attribute information to establish efficient and stable routes with low-latency.
   * Tools: NS-2, SUMO, MATLAB
 
 
