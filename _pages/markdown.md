@@ -31,7 +31,6 @@ Research Projects
   * Proposed the communication scheme to minimize total network energy consumption and maximize communication reliability by optimizing communication strategy and relay selection.
   * Exploited the communication scheme to maximize the energy efficiency of uploading packets from Massive IoT devices to the vehicles by jointly optimizing the network resources allocation and connection strategy.
   * Developed the packet forwarding and offloading algorithm by considering the data QoS requirements, vehicles’ positions on the real roads, and network offload to decide packet forwarding and offloading strategies. 
-
   * Tools: MATLAB, Simulation of Urban MObility (SUMO)
 
 3. **Research on \*\*\*\*\*\*\*\*\* and Transmission Optimization Technology (\*\*\*\*\*\*\*\*\*\*\*\*)**
