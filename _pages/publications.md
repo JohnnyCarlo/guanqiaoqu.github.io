@@ -15,7 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-The author with an asterisk (\*) next to the author's name is my tutor Associate Professor Chenguang He in Harbin Institute of Technology.
+% The author with an asterisk (\*) next to the author's name is my tutor Associate Professor Chenguang He in Harbin Institute of Technology.%
+The author with an asterisk (\*) next to the author's name is my supervisor.
 
 Published Papers 
 ==
