@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ==
-* B.E. in School of Electronics and Information Engineering, Harbin Institute of Technology (HIT), 2016-2020
-* M.Eng. in School of Electronics and Information Engineering, Harbin Institute of Technology (HIT), 2020-2022
+* B.E. in Communication Engineering, School of Electronics and Information Engineering, Harbin Institute of Technology (HIT), 2016-2020
+* M.Eng. in Communication Engineering, School of Electronics and Information Engineering, Harbin Institute of Technology (HIT), 2020-2022
+* Ph.D. in Department of Electrical and Electronic Engineering, Faculty of Engineering, the University of Hong Kong (HKU), 2022-2026 (expected)
 
 
 Awards
