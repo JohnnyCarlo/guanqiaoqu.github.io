@@ -5,6 +5,19 @@ permalink: /sitemap/
 author_profile: true
 ---
 
+Email: guanqiaoqu@gmail.com
+
+About me[https://guanqiaoqu.com/]
+
+Publications[https://guanqiaoqu.com/publications/]
+
+Research Projects[https://guanqiaoqu.com/projects/]
+
+CV[https://guanqiaoqu.com/cv/]
+
+ResearchGate[https://www.researchgate.net/profile/Guanqiao_Qu]
+
+<!---
 {% include base_path %}
 
 A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
@@ -35,3 +48,5 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% endunless %}
 {% endfor %}
 {% endfor %}
+
+-->
