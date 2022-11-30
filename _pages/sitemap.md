@@ -7,15 +7,15 @@ author_profile: true
 
 Email: guanqiaoqu@gmail.com
 
-About me[https://guanqiaoqu.com/]
+[About me](https://guanqiaoqu.com/)
 
-Publications[https://guanqiaoqu.com/publications/]
+[Publications](https://guanqiaoqu.com/publications/)
 
-Research Projects[https://guanqiaoqu.com/projects/]
+[Research Projects](https://guanqiaoqu.com/projects/)
 
-CV[https://guanqiaoqu.com/cv/]
+[CV](https://guanqiaoqu.com/cv/)
 
-ResearchGate[https://www.researchgate.net/profile/Guanqiao_Qu]
+[ResearchGate](https://www.researchgate.net/profile/Guanqiao_Qu)
 
 <!---
 {% include base_path %}
