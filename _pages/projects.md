@@ -15,8 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Research Projects
-==
+
 1. **A Software Development (\*\*\*\*\*\*\*\*\*\*\*\*)**
 * Basic Strengthening Key Projects
 * Sep 2021 – Present
