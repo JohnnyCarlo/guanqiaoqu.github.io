@@ -6,12 +6,16 @@ author_profile: true
 ---
 
 [About me](https://guanqiaoqu.com/)
+===
 
 [Publications](https://guanqiaoqu.com/publications/)
+===
 
 [Research Projects](https://guanqiaoqu.com/projects/)
+===
 
 [CV](https://guanqiaoqu.com/cv/)
+===
 
 <!---
 {% include base_path %}
