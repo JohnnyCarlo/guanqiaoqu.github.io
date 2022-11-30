@@ -15,10 +15,11 @@ Research Interest
 ======
 My research interests include resource allocation, mobile edge computing, vehicular ad hoc network, and Internet of Things.
 
+<!---
 Daily Life
 ======
 I love fitness, running, table tennis, and swimming in daily life. We can explore more together if you have the same hobbies as me. :)
-
+-->
 
 <!---
 A data-driven personal website 
