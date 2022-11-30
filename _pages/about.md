@@ -9,11 +9,10 @@ redirect_from:
 ---
 
 This is Guanqiao (Gavin) Qu's home on the web!
-I received the Bachelor's and Master's degrees in the School of Electronics and Information Engineering from [Harbin Institute of Technology](https://www.hit.edu.cn/) (HIT), Harbin, China, in 2020 and 2022. I am a PhD student in [The University of Hong Kong](https://www.hku.hk/) (HKU) now.
+I am currently a PhD student at [The University of Hong Kong](https://www.hku.hk/) (HKU) now. My research interests include resource allocation, mobile edge computing, vehicular ad hoc network, and Internet of Things.
 
-Research Interest
-======
-My research interests include resource allocation, mobile edge computing, vehicular ad hoc network, and Internet of Things.
+Before HKU, I graduated with the Bachelor's and Master's degrees from the School of Electronics and Information Engineering, [Harbin Institute of Technology](https://www.hit.edu.cn/) (HIT), Harbin, China, in 2020 and 2022, respectively. 
+
 
 <!---
 Daily Life
