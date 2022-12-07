@@ -19,7 +19,7 @@ The author with an asterisk (\*) next to the name is my supervisor.
 
 Published Papers 
 ==
-1.  \[<font color = "red">GLOBECOM'2022</font>\] **Guanqiao Qu**, Chenguang He\*, Qian Chen, Weixiao Meng, "Resource allocation in vehicle-aided MIoT: How to enhance energy efficiency in packet uploading?," *2022 IEEE Global Communications Conference (Globecom)*. 2022. Accepted.
+1.  \[<font color = "red">GLOBECOM'2022</font>\] **Guanqiao Qu**, Chenguang He\*, Qian Chen, Weixiao Meng, "Resource allocation in vehicle-aided MIoT: How to enhance energy efficiency in packet uploading?," in *Proc. IEEE Global Communications Conference (Globecom)*, Rio de Janeiro, Brazil, December 2022, pp. 6254-6259.
 2.  \[<font color = "red">ICC'2022</font>\] Chenguang He\*, **Guanqiao Qu**, Qian Chen, Weixiao Meng, "A clustering-routing method to preprocess data for massive Internet of things," in *Proc. IEEE International Conference on Communications (ICC)*, Seoul, Korea, May 2022, pp. 1635-1640.
 3. \[<font color = "red">IWCMC'2021</font>\] Chenguang He\*, **Guanqiao Qu**, Shouming Wei, "A vehicular communication routing algorithm based on graph theory," in *Proc. 17th International Wireless Communications and Mobile Computing Conference (IWCMC)*, Harbin, China, Jun. 2021, pp. 2176-2181.
 4. \[<font color = "red">WCMC</font>\] Chenguang He\*, **Guanqiao Qu**, Liang Ye, Shouming Wei, "A two-level communication routing algorithm based on vehicle attribute information for vehicular ad hoc network," *Wireless Communications and Mobile Computing*, vol. 2021, pp. 1–14, 2021.
