@@ -15,7 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+<!---
 The author with an asterisk (\*) next to the name is my supervisor.
+-->
 
 Published Papers 
 ==
