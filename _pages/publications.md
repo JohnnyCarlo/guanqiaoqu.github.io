@@ -21,7 +21,7 @@ The author with an asterisk (\*) next to the name is my supervisor.
 
 Published Papers 
 ==
-1.  \[<font color = "red">COMMAG</font>\] **Guanqiao Qu**, Chenguang He\*, Qian Chen, Weixiao Meng, "Tactical Data-Oriented Decentralized Communication Scheme in Vehicle-Assisted Networks: Challenges and Solutions," *IEEE Communications Magazine*, Accepted.
+1.  \[<font color = "red">COMMAG</font>\] **Guanqiao Qu**, Chenguang He\*, Qian Chen, Weixiao Meng, "Tactical data-oriented decentralized communication scheme in vehicle-assisted networks: Challenges and solutions," *IEEE Communications Magazine*, Accepted.
 2.  \[<font color = "red">GLOBECOM'2022</font>\] **Guanqiao Qu**, Chenguang He\*, Qian Chen, Weixiao Meng, "Resource allocation in vehicle-aided MIoT: How to enhance energy efficiency in packet uploading?," in *Proc. IEEE Global Communications Conference (GLOBECOM)*, Rio de Janeiro, Brazil, Dec. 2022, pp. 6247-6252.
 3.  \[<font color = "red">ICC'2022</font>\] Chenguang He\*, **Guanqiao Qu**, Qian Chen, Weixiao Meng, "A clustering-routing method to preprocess data for massive Internet of things," in *Proc. IEEE International Conference on Communications (ICC)*, Seoul, Korea, May 2022, pp. 1635-1640.
 4. \[<font color = "red">IWCMC'2021</font>\] Chenguang He\*, **Guanqiao Qu**, Shouming Wei, "A vehicular communication routing algorithm based on graph theory," in *Proc. 17th International Wireless Communications and Mobile Computing Conference (IWCMC)*, Harbin, China, Jun. 2021, pp. 2176-2181.
