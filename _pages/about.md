@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Guanqiao (Gavin) Qu's home on the web!
+This is Guanqiao (Gavin) Qu's home on the web.
 
 * I am currently a PhD student at [the Department of Electrical and Electronic Engineering](https://www.eee.hku.hk/), [the University of Hong Kong](https://www.hku.hk/) (HKU). 
 * My research interests include edge intelligence, federated learning, resource allocation, wireless communications, and networking.
