@@ -10,7 +10,7 @@ redirect_from:
 
 This is Guanqiao (Gavin) Qu's home on the web!
 
-* I am currently a PhD student at [The University of Hong Kong](https://www.hku.hk/) (HKU). 
+* I am currently a PhD student at [the Department of Electrical and Electronic Engineering](https://www.eee.hku.hk/), [The University of Hong Kong](https://www.hku.hk/) (HKU). 
 * My research interests include edge intelligence, federated learning, resource allocation, wireless communications, and networking.
 * Before HKU, I graduated with the Bachelor's and Master's degrees from the School of Electronics and Information Engineering, [Harbin Institute of Technology](https://www.hit.edu.cn/) (HIT), Harbin, China, in 2020 and 2022, respectively. 
 
