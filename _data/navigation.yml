@@ -22,5 +22,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "WORK"
+  url: /work/
+    
  # - title: "Photo"
  #   url: /photo/
