@@ -86,7 +86,7 @@ author:
   location         : "Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=k6GM88kAAAAJ&hl=en"
   email            :  "gqqu@eee.hku.hk"
   researchgate     :  "https://www.researchgate.net/profile/Guanqiao_Qu"
   uri              :
