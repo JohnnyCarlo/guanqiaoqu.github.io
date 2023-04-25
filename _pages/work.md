@@ -1,8 +1,8 @@
 ---
 layout: archive
 permalink: /work/
-title: "Posts by Category"
+title: "Work"
 author_profile: true
 ---
 
-[hello](https://academicpages.github.io/talkmap.html)
+This page will be added later.
