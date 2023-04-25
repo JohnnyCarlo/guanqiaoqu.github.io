@@ -57,7 +57,7 @@ My Daily Life
 ==
 * Volunteer for the COVID-19 Test in HIT
   * March 2022-April 2022
-  * News are posted in [here] (http://seie.hit.edu.cn/2022/0426/c9262a272359/page.htm) and [here](http://today.hit.edu.cn/article/2022/04/26/94004).
+  * News are posted in [here](http://seie.hit.edu.cn/2022/0426/c9262a272359/page.htm) and [here](http://today.hit.edu.cn/article/2022/04/26/94004).
 * Student Union Member, School of Electronic and Information Engineering, HIT
   * September 2017-September 2018
   * I organized the Mid-Autumn Festival Gala of the School of Electronic and Information Engineering in HIT, the 2nd Poetry Conference of HIT, the 2018 HIT Guinness Event, and the 2018 "ZTE Cup" Running Man Campus Challenge.
