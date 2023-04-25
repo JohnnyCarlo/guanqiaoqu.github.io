@@ -15,7 +15,6 @@ Education
 * M.Eng. in Communication Engineering, School of Electronics and Information Engineering, Harbin Institute of Technology (HIT), 2020-2022
 * Ph.D. in Department of Electrical and Electronic Engineering, Faculty of Engineering, The University of Hong Kong (HKU), 2022-2026 (expected)
 
-
 Awards
 ==
 * 2022 
@@ -38,69 +37,28 @@ Awards
   * HIT Outstanding Communist Youth League Member 
   * HIT Model Student
 
-
-Skills
+Academic Services
 ==
-* Software Skill
-  * MATLAB
-  * Linux
-  * Origin
-  * Office
-  * Latex
-  * Network Simulation-2 (NS-2)
-  * Simulation of Urban MObility (SUMO)
-* English Skill
-  * IELTS: 6.5
-  * CET-6: 500
-
+* TPC Member for ICC 2022
+  * January 2022
 
 Work experience
 ==
 * Summer 2019: Intern
   * Shenyang Neusoft Group
-  * Details: I organised the team to develop a micro visualization operating systerm for Intelligent Agriculture.
+  * Team Leader
 
-
-Service and leadership
+Skills
 ==
-* Volunteer for the COVID-19 Test
+* Software Skill
+  * MATLAB, Linux, Origin, Office, Latex, Network Simulation-2 (NS-2), Simulation of Urban MObility (SUMO)
+
+My Daily Life
+==
+* [Volunteer for the COVID-19 Test in HIT](http://seie.hit.edu.cn/2022/0426/c9262a272359/page.htm) and [HIT](http://today.hit.edu.cn/article/2022/04/26/94004)
   * March 2022-April 2022
-  * HIT
-  * Details: As a student team leader, I assisted doctors in COVID-19 Test for all teachers and students in HIT.
-  * News has been published in our [school](http://seie.hit.edu.cn/2022/0426/c9262a272359/page.htm) and [HIT](http://today.hit.edu.cn/article/2022/04/26/94004) website.
-  <!---
-    April 25 2022, March 30 2022
-  -->
-
-* TPC Member for ICC 2022
-  * January 2022
-
-* Student Union Member
+* Student Union Member, School of Electronic and Information Engineering, HIT
   * September 2017-September 2018
-  * School of Electronic and Information Engineering in HIT
-  * Details: I organized the Mid-Autumn Festival Gala of the School of Electronic and Information Engineering in HIT, the 2nd Poetry Conference of HIT, the 2018 HIT Guinness Event, and the 2018 "ZTE Cup" Running Man Campus Challenge.
-
-* New Year's Eve Party Host
+  * I organized the Mid-Autumn Festival Gala of the School of Electronic and Information Engineering in HIT, the 2nd Poetry Conference of HIT, the 2018 HIT Guinness Event, and the 2018 "ZTE Cup" Running Man Campus Challenge.
+* New Year's Eve Party Host for School of Electronic and Information Engineering in HIT
   * December 2016
-  * School of Electronic and Information Engineering in HIT
-
-<!---
- Publications
- ======
-   <ul>{% for post in site.publications %}
-     {% include archive-single-cv.html %}
-   {% endfor %}</ul>
-  
- Talks
- ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
- Teaching
- ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  */
--->
