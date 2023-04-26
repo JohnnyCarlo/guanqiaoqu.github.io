@@ -44,8 +44,8 @@ Academic Services
 
 Work experience
 ==
-* Summer 2019: Intern
-  * Shenyang Neusoft Group
+* Intern in Neusoft
+  * Summer 2019, Shenyang, China
   * Team Leader
 
 Skills
