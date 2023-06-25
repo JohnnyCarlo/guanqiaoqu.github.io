@@ -39,8 +39,8 @@ Awards
 
 Academic Services
 ==
+* Reviewer for GLOBECOM 2023
 * TPC Member for ICC 2022
-  * January 2022
 
 Work experience
 ==
