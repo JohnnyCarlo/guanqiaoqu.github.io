@@ -33,10 +33,3 @@ Published Papers
 Under Review Papers
 ==
  -->
- <!---
-Patents
-==
-1. 何晨光\*，**曲冠桥**，陈倩，陈舒怡，孟维晓，杨宇. 一种面向海量节点的大规模自组网分簇组网方法. 公开号：CN115022938A. 受理专利. (Chenguang He\*, **Guanqiao Qu**, Qian Chen, Shuyi Chen, Weixiao Meng, Yu Yang. A clustering method for massive nodes in the large-scale ad hoc network. CN Patent CN115022938A. Sep. 6. 2022. Application Pending.)
-2. 何晨光\*，**曲冠桥**，叶亮，马琳，王雨. 基于AODV协议的多节点自组网传输的模拟方法及模拟系统. 公开号：CN113746737B. 授权专利. (Chenguang He\*, **Guanqiao Qu**, Liang Ye, Lin Ma, Yu Wang. A simulation method and a simulation system for the multi-node ad hoc communication network based on the AODV routing protocol. CN Patent CN113746737B. Jun. 14. 2022. Application Granted.)
-3. 叶亮，杨宇，马琳，张昱哲，何晨光\*，**曲冠桥**. 基于双极化天线的全双工自组网快速分簇方法. 公开号：CN114980174A. 受理专利. (Liang Ye, Yu Yang, Lin Ma, Yuzhe Zhang, Chenguang He\*, **Guanqiao Qu**. A fast clustering method for the full-duplex ad hoc network based on the dual-polarized antennas. CN Patent CN114980174A. Aug. 30. 2022. Application Pending.)
- -->
